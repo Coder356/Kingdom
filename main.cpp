@@ -20,7 +20,7 @@ int main()
 		int archers = 1, knights = 2, spearman = 3;
 
 	start:
-		cout << "\n\n********************************************" << endl;
+		cout << "\n\n*****************$$$***********************" << endl;
 		cout << "\nPlease select your choice of warriors." << endl;
 		cout << "\n(0)Quit (1)Archers (2)Knights (3)Spearmen: ";
 		cin >> choice;
